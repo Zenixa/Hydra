@@ -3,3 +3,6 @@
 ### changelogs
 - new gui
 - fast wheel added
+
+### screenshots
+![menu](images/scrshot1.png)
