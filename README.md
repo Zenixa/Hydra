@@ -9,4 +9,4 @@
 - **NEW** added EditToggle(configSettingName, value) to Lua Api {   example: EditToggle("NICKNAME", "test name")     }
 
 ### screenshots
-![menu](images/scrshot1.png)
+![menu](https://media.discordapp.net/attachments/1204213549300191252/1375212611188297778/image.png?ex=68381e4c&is=6836cccc&hm=22e7f73241028b5550355edabbf8bd32b1bd4f0e637c0c87d917e6be21642c88&=&format=webp&quality=lossless&width=1433&height=833)
