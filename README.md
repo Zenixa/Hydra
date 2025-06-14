@@ -16,6 +16,7 @@
 - **NEW** Added RemoveCallback(callbackName) and RemoveCallbacks()
 - **NEW** Added ImGui notifications
 - **NEW** Added MessageBox(type, timeToShow, text)
+- **NEW** Added Autocollect
 - **NEW** Updated to 5.21
 
 ### screenshots
