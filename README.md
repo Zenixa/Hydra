@@ -1,5 +1,5 @@
 # Hydra - Discord [Link](https://discord.gg/myECsZU4Nk)
-## June 14th, 2025 - 5.21 rc1 [Download](https://link-target.net/1345687/4J02dxUZhv93)
+## June 15th, 2025 - 5.21 rc2 [Download](https://link-target.net/1345687/4J02dxUZhv93)
 ## [Video Showcase + how to use Hydra](https://www.youtube.com/watch?v=ipZhX6Zf6Qg)
 ## [Lua Documentation](https://fshn06s-organization.gitbook.io/hydra-lua-api/)
 - toggle show menu key: INSERT
