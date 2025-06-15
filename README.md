@@ -12,12 +12,13 @@
 - SendPacketRawClient(packet) added
 - SendVarlist(varlist) added
 - Added Script loading and saving to Lua Executor tab
-- **NEW** Added OnIncomingRawPacket callback
-- **NEW** Added RemoveCallback(callbackName) and RemoveCallbacks()
-- **NEW** Added ImGui notifications
-- **NEW** Added MessageBox(type, timeToShow, text)
-- **NEW** Added Autocollect
-- **NEW** Updated to 5.21
+- Added OnIncomingRawPacket callback
+- Added RemoveCallback(callbackName) and RemoveCallbacks()
+- Added ImGui notifications
+- Added MessageBox(type, timeToShow, text)
+- Added Autocollect
+- Updated to 5.21
+- **NEW** Fixed lua executor tab crashing upon open because of not having C:/hydra_root/scripts/ directory
 
 ### screenshots
 ![menu](https://media.discordapp.net/attachments/1204214150729830461/1383429168871506040/hydra_linkvertise1.png?ex=684ec250&is=684d70d0&hm=71238325f17716ca8a92ec07aa21430d5fe13118e5bc3c46f177fbae1b9047fd&=&format=webp&quality=lossless&width=1430&height=833)
